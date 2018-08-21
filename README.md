@@ -4,4 +4,6 @@ This container allows a simple run without any installation of deps.
 
 # Run
 
-```docker-compose up```
+```
+docker-compose up
+```
